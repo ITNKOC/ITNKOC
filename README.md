@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Koceila Djaballah
+# 👋 Hello, I'm Koceila Djaballah
 
-## 💻 Développeur Full Stack & IA | Montréal, QC
+## 💻 Full Stack & AI Developer | Montreal, QC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-djaballah-295716221)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koceila.djaballah@gmail.com)
@@ -8,15 +8,15 @@
 
 ---
 
-### 🚀 À Propos de Moi
+### 🚀 About Me
 
-Développeur passionné spécialisé en technologies web et intelligence artificielle, combinant expertise technique et vision créative. Mon parcours unique entre l'Algérie et le Canada m'a permis de développer une forte adaptabilité et une approche innovante face aux défis technologiques.
+Passionate developer specialized in web technologies and artificial intelligence, combining technical expertise with creative vision. I've developed strong adaptability and an innovative approach to technological challenges, focusing on creating impactful solutions.
 
 ---
 
-### 🧠 Compétences Techniques
+### 🧠 Technical Skills
 
-#### Langages de Programmation
+#### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -25,7 +25,7 @@ Développeur passionné spécialisé en technologies web et intelligence artific
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Frameworks & Bibliothèques
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -34,7 +34,7 @@ Développeur passionné spécialisé en technologies web et intelligence artific
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-#### Intelligence Artificielle
+#### Artificial Intelligence
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -42,7 +42,7 @@ Développeur passionné spécialisé en technologies web et intelligence artific
 ![LLM](https://img.shields.io/badge/LLM-41454A?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4A225D?style=flat-square&logo=book&logoColor=white)
 
-#### Bases de Données
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -58,28 +58,28 @@ Développeur passionné spécialisé en technologies web et intelligence artific
 
 ---
 
-### 🌟 Projets Phares
+### 🌟 Featured Projects
 
-#### 🏥 Plateforme Intelligente de Gestion Hospitalière
-- Développement d'une plateforme SaaS complète pour la gestion hospitalière
-- Architecture microservices & intégration IA
-- Modules de DME, planification intelligente et agents conversationnels
+#### 🏥 Intelligent Hospital Management Platform
+- Development of a complete SaaS platform for hospital management
+- Microservices architecture & AI integration
+- EMR modules, intelligent appointment scheduling and conversational agents
 - Technologies: Python, Flask/FastAPI, React.js, PostgreSQL, NLP, OpenCV
 
-#### 🔍 Système CBIR (Content-Based Image Retrieval)
-- Système de recherche d'images par similarité visuelle
-- Descripteurs GLCM et BiT pour l'extraction de caractéristiques
-- Multiples métriques de distance (Manhattan, Euclidienne, Chebyshev, Canberra)
+#### 🔍 CBIR System (Content-Based Image Retrieval)
+- Image search system based on visual similarity
+- GLCM and BiT descriptors for feature extraction
+- Multiple distance metrics (Manhattan, Euclidean, Chebyshev, Canberra)
 - Technologies: Python, OpenCV, scikit-image, NumPy, Streamlit
 
-#### 🛒 Plateformes E-commerce
-- Boutique en ligne de vêtements avec architecture MVC
-- Plateforme de vente de parfums avec stack MERN
+#### 🛒 E-commerce Platforms
+- Clothing online store with MVC architecture
+- Perfume sales platform using MERN stack
 - Technologies: PHP, MySQL, MongoDB, Express.js, React, Node.js
 
-#### 🚗 Application Mobile Clone Uber
-- Application complète de transport avec versions client et chauffeur
-- Géolocalisation en temps réel et suivi d'itinéraire
+#### 🚗 Uber Clone Mobile Application
+- Complete transportation application with client and driver versions
+- Real-time geolocation and route tracking
 - Technologies: Flutter, Firebase, Google Maps API
 
 ---
@@ -91,30 +91,30 @@ Développeur passionné spécialisé en technologies web et intelligence artific
 
 ---
 
-### 🌐 Langues
+### 🌐 Languages
 
-- 🗣️ Kabyle (maternel)
-- 🇫🇷 Français (courant)
-- 🇩🇿 Arabe (courant)
-- 🇬🇧 Anglais (professionnel)
-- 🇪🇸 Espagnol (notions)
-
----
-
-### 📚 Formation
-
-- 🎓 DEC en Programmation Web et Intelligence Artificielle - Institut Teccart, Montréal (2023-2025)
-- 🎓 Baccalauréat (Licence) en Informatique - Université Abderrahmane Mira de Béjaïa, Algérie (2019-2022)
+- 🗣️ Kabyle (native)
+- 🇫🇷 French (fluent)
+- 🇩🇿 Arabic (fluent)
+- 🇬🇧 English (professional)
+- 🇪🇸 Spanish (basic)
 
 ---
 
-### 📫 Comment me joindre
+### 📚 Education
 
-Je suis ouvert aux opportunités de collaboration et aux nouveaux défis. N'hésitez pas à me contacter!
+- 🎓 DEC in Web Programming and AI - Institut Teccart, Montreal (2023-2025)
+- 🎓 Bachelor's Degree in Computer Science (2019-2022)
+
+---
+
+### 📫 Get In Touch
+
+I'm open to collaboration opportunities and new challenges. Don't hesitate to reach out!
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/koceila-djaballah-295716221)
 [![Email Me](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:koceila.djaballah@gmail.com)
 
 ---
 
-> "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
