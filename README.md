@@ -43,7 +43,7 @@ Passionate developer specialized in web technologies and artificial intelligence
 ![RAG](https://img.shields.io/badge/RAG-4A225D?style=flat-square&logo=book&logoColor=white)
 
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -64,7 +64,7 @@ Passionate developer specialized in web technologies and artificial intelligence
 - Development of a complete SaaS platform for hospital management
 - Microservices architecture & AI integration
 - EMR modules, intelligent appointment scheduling and conversational agents
-- Technologies: Python, Flask/FastAPI, React.js, PostgreSQL, NLP, OpenCV
+- Technologies: Python, Flask/FastAPI, React.js, Snowflake, NLP, OpenCV
 
 #### 🔍 CBIR System (Content-Based Image Retrieval)
 - Image search system based on visual similarity
