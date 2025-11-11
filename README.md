@@ -204,7 +204,7 @@ Université Abderrahmane Mira, Béjaïa, Algeria | *2019 - Sept 2022*
 
 ## 🌐 Languages
 
-🗣️ **Kabyle** (Native) | 🇫🇷 **French** (Fluent - C1) | 🇸🇦 **Arabic** (Fluent) | 🇬🇧 **English** (Professional - B2) | 🇪🇸 **Spanish** (Basic - A2)
+🗣️ **Kabyle** (Native) | 🇫🇷 **French** (Native) | 🇸🇦 **Arabic** (Fluent) | 🇬🇧 **English** (Professional - B2) | 🇪🇸 **Spanish** (Basic - A2)
 
 ---
 
